@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-import MainForm from './components/MainForm';
+import MainForm from './MainForm';
 import { Container } from 'semantic-ui-react';
 
 class App extends Component {

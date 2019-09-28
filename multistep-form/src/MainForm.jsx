@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import UserDetails from './UserDetails';
 import PersonalDetails from './PersonalDetails';
 import Confirmation from './Confirmation';
-import Success from './Succes';
+import Success from './Success';
 
 class MainForm extends Component {
     state = {
